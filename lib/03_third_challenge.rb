@@ -13,7 +13,7 @@ def third_challenge
         #your key/value pairs here
         },
       :hero_friends => []
-   }, binding.pry
+   }, 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"
         #your key/value pairs here
